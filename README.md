@@ -8,3 +8,5 @@ El programa tiene 3 opciones:
 
 Notas: Los archivos se descargarán en la carpeta en donde se encuentra el archivo downloader.py.
 Aviso: He creado este programa para descargas de contenidos libres (NCS), si alguien usa este programa para descargar contenidos con derechos de autor, es responsabilidad del usuario, no me hago responsable de tales actos :).
+
+Agradecimientos: Creadores de youtube-dl.
